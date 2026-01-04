@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'Raleway';
+    src:
+      url('./raleway-29.woff2') format('woff2'),
+      url('./raleway-29.woff') format('woff'),
+      url('./raleway-29.otf') format('otf');
+    font-weight: 400;
+    font-style: normal;
+}
